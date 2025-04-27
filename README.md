@@ -1,4 +1,4 @@
-# ORIS - AI Desktop Health Assistant
+# ORIS - AI Desktop Health Assistant                                                                                          https://discord.gg/7s2hgqguBT
 
 **ORIS** is an AI desktop assistant designed to optimize your workplace health and digital wellbeing. With an elegant holographic interface and voice capabilities, ORIS currently helps you maintain a healthy work-life balance by managing breaks, and guiding you toward better sleep habits.
 
