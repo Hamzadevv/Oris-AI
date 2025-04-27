@@ -6,8 +6,8 @@
 
 * **Break System** - Personalized break scheduling to prevent fatigue and eye strain
 * **Sleep Management** - wind-down routines and sleep recommendations 
-* **Customizable Holographic Interface** - Elegant, non-intrusive holographic displays for important notifications
-* **Jarvis-Style Voice Interaction** - Clear, professional voice communication with text-to-speech
+* **Holographic Interface** - Elegant, non-intrusive holographic displays for important notifications
+* **Voice Interaction** - Clear, professional voice communication with text-to-speech
 * **System Tray Integration** - Easy access to settings and features while minimizing desktop clutter
 
 ### Daily Workflow
