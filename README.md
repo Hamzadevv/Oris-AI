@@ -1,10 +1,10 @@
 # ORIS - AI Desktop Health Assistant
 https://discord.gg/7s2hgqguBT
 
+### About
 **ORIS** is an AI desktop assistant designed to optimize your workplace health and digital wellbeing. With an elegant holographic interface and voice capabilities, ORIS currently helps you maintain a healthy work-life balance by managing breaks, and guiding you toward better sleep habits.
 
 ## Key Features
-
 * **Break System** - Personalized break scheduling to prevent fatigue and eye strain
 * **Sleep Management** - wind-down routines and sleep recommendations 
 * **Holographic Interface** - Elegant, non-intrusive holographic displays for important notifications
@@ -29,20 +29,17 @@ Access comprehensive settings by right-clicking the ORIS tray icon:
 - **Sleep Schedule**: Set sleep time and wind-down preferences
 
 ## Security & Privacy
-
 ORIS prioritizes your privacy and security:
 - All processing occurs locally on your machine
 - No data is shared with external servers
   
 ## Support & Troubleshooting
-
 If you encounter any issues:
 1. Ensure you have the latest version installed
 2. Use the support channel in the official oris discord server (fastest): https://discord.gg/7s2hgqguBT
 3. Open a new issue in github
 
 ## About
-
 ORIS was developed to address the growing concerns around digital wellbeing and workplace health. ORIS helps maintain productivity while protecting your physical and mental wellbeing.
 
 ---
